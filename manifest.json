@@ -11,7 +11,6 @@
    "manifest_version": 2,
    "name": "katakatataaaaaaan",
    "permissions": [ "tabs", "background", "http://*/*", "https://*/*" ],
-   "update_url": "https://clients2.google.com/service/update2/crx",
    "version": "1.0",
    "web_accessible_resources": [ "images/*.svg" ]
 }
