@@ -6,7 +6,7 @@ document.onkeydown = function(e) {
     if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
         var isEnter = e.key === 'Enter';
         var prefix = isEnter ? 'tan' : 'kata';
-        var size = isEnter ? rand(80,100) : rand(10,20);
+        var size = isEnter ? rand(80,200) : rand(10,200);
         var caretPosition = Measurement.caretPos(current);
         var imgUrl = chrome.extension.getURL('images/' + prefix + '_' + rand(1,4) + '.svg');
         var $img = $('<img width="' + size + '">');
