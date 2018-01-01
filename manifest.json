@@ -12,6 +12,7 @@
    "name": "katakatataaaaaaan",
    "permissions": [
       "tabs",
+      "activeTab",
       "http://*/*",
       "https://*/*"
    ],
