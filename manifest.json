@@ -1,0 +1,17 @@
+{
+   "content_scripts": [ {
+      "js": [ "js/jquery.js", "js/caretposition.js", "js/contents.js" ],
+      "matches": [ "\u003Call_urls>" ]
+   } ],
+   "description": "ｶﾀｶﾀｶﾀ...ｯﾀｧｰﾝ!!",
+   "icons": {
+      "128": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtVq7nB2ckPh9ULf/SdswvUPSPPZ9al57o/eOSVQ6YuResNetbyOQmBjVY/tM4Fi5GdLHsbW21B7RBD6+NwAZTLMwDyv303S+3n8ko+c/aF2xJOv70CNbhgPyuCjA52K42znJxmaaQb4XTq8PErNBSCHgp113nyC81E8JHFwqNv+MMu+QY4n25EUMCtAAFBfLhjh3umn5E4kBmh5aBN/EUIiBEQYhzG4XQ32UDOkOihFwRKAII3WMssJrp7rNg8lVPTlTste0HUT/4rxk1ZQ1KKl/zbYFcaHtx4GzkszpCWk26uB+JKElK/VkJGWwWfod7gJQqOj0ybS2v+5Crx1LoQIDAQAB",
+   "manifest_version": 2,
+   "name": "katakatataaaaaaan",
+   "permissions": [ "tabs", "background", "http://*/*", "https://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0",
+   "web_accessible_resources": [ "images/*.svg" ]
+}
