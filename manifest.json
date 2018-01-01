@@ -12,7 +12,6 @@
    "name": "katakatataaaaaaan",
    "permissions": [
       "tabs",
-      "background",
       "http://*/*",
       "https://*/*"
    ],
