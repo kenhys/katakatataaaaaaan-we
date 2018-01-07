@@ -1,6 +1,8 @@
 {
    "content_scripts": [ {
-      "js": [ "js/jquery.js", "js/caretposition.js", "js/contents.js" ],
+      "js": [ "js/jquery.js",
+	      "js/caretposition.js",
+	      "js/contents.js" ],
       "matches": [ "<all_urls>" ]
    } ],
    "description": "ｶﾀｶﾀｶﾀ...ｯﾀｧｰﾝ!!",
