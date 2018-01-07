@@ -24,5 +24,10 @@
       "https://*/*"
    ],
    "version": "1.0",
-   "web_accessible_resources": [ "images/*.svg" ]
+   "web_accessible_resources": [ "images/*.svg" ],
+   "options_ui": {
+     "page": "options/options.html",
+     "chrome_style": true
+   },
+   "applications": {
 }
