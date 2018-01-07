@@ -7,7 +7,7 @@
    "icons": {
       "128": "images/icon.png"
    },
-   "author": "@ampersand_xyz <info@incr.jp>",
+   "author": "Original author: @ampersand_xyz <info@incr.jp>, Ported by @kenhys",
    "manifest_version": 2,
    "name": "katakatataaaaaaan-we",
    "permissions": [
