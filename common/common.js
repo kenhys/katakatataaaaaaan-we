@@ -27,7 +27,7 @@ configs = new Configs({
 	enterKeyTaaaaaaanMaxSize  : 100,
 	normalKeyKataKataMinSize  : 10,
 	normalKeyKataKataMaxSize  : 20,
-	animateVerticalPosition   : 40,
-	animateHorizontalPosition : 40,
+	animateVerticalMove       : 40,
+	animateHorizontalMove     : 40,
 	debug                     : true
 });
