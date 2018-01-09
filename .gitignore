@@ -1,0 +1,4 @@
+*.xpi
+*.zip
+common/Configs.js
+options/Options.js
