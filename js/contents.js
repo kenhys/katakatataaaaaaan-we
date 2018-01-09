@@ -1,4 +1,5 @@
 function taaaaaaan(current, isEnter) {
+    log('Show:', configs);
     var prefix = isEnter ? 'tan' : 'kata';
     var size = isEnter ? rand(configs.enterKeyTaaaaaaanMinSize,configs.enterKeyTaaaaaaanMaxSize) : rand(configs.normalKeyKataKataMinSize,configs.normalKeyKataKataMaxSize);
     var caretPosition = Measurement.caretPos(current);
