@@ -54,8 +54,8 @@ document.addEventListener("input", (event) => {
 });
 
 function onConfigUpdated(aKey) {
-    console.log(aKey);
-    console.log(configs);
+    debug(aKey);
+    debug(configs);
 }
 
 async function applyMCDConfigs() {
