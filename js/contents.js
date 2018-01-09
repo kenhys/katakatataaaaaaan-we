@@ -12,9 +12,11 @@ function taaaaaaan(current, isEnter) {
         'zIndex' : 99999
     });
     $('body').append($img);
+    var verticalMove = rand(-configs.animateVerticalMove,configs.animateVerticalMove);
+    var horizontalMove = rand(-configs.animateHorizontalMove,configs.animateHorizontalMove);
     $img.animate({
-        'top' : caretPosition.top + rand(-configs.animateVerticalPosition,configs.animateVerticalPosition),
-        'left' : caretPosition.left + rand(-configs.animateHorizonalPosition,configs.animateHorizontalPosition),
+        'top' : caretPosition.top + verticalMove,
+        'left' : caretPosition.left + horizontalMove,
         'width' : size + (isEnter ? rand(30,50) : rand(10,20)),
         'opacity' : 0
     },
