@@ -74,7 +74,7 @@ function send(aMessage) {
   if (configs.debug)
     aMessage.debug = true;
   log('Sending: ', aMessage);
-  return browser.runtime.sendNativeMessage('org.gigo-ice.katakatataaaaaaan-we_host', aMessage);
+  return browser.runtime.sendNativeMessage('org.gigo_ice.katakatataaaaaaan_we_host', aMessage);
 }
 
 (async () => {
