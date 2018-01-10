@@ -34,5 +34,12 @@
          "id": "katakatataaaaaaan-we@gigo-ice.org",
          "strict_min_version": "52.0"
       }
+   },
+   "background": {
+      "scripts": [
+         "common/Configs.js",
+         "common/common.js",
+         "js/background.js"
+      ]
    }
 }
