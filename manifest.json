@@ -1,12 +1,13 @@
 {
-   "background": {
-      "scripts": [ "js/jquery.js",
+   "content_scripts": [{
+      "js": [ "js/jquery.js",
 	      "js/caretposition.js",
 	      "common/Configs.js",
 	      "common/common.js",
 	      "js/contents.js"
-	    ]
-   },
+	    ],
+       "matches": ["<all_urls>"]
+   }],
    "description": "ｶﾀｶﾀｶﾀ...ｯﾀｧｰﾝ!!",
    "icons": {
       "128": "images/icon.png"
