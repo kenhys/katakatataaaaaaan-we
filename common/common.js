@@ -30,5 +30,5 @@ configs = new Configs({
 	animateVerticalMove       : 40,
 	animateHorizontalMove     : 40,
 	logging                   : true,
-	debug                     : true
+	debug                     : false
 });
