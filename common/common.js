@@ -29,5 +29,6 @@ configs = new Configs({
 	normalKeyKataKataMaxSize  : 20,
 	animateVerticalMove       : 40,
 	animateHorizontalMove     : 40,
+	logging                   : true,
 	debug                     : true
 });
