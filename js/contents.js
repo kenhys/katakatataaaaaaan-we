@@ -36,9 +36,10 @@ function rand(min,max) {
     return Math.floor(Math.random()*(max-min)+min);
 }
 
+configs.$loaded.then(function() {
 document.onkeydown = function(e) {
     var current = document.activeElement;
-    
+
     if (e.key === 'Backspace') return true;
 
     if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
@@ -59,3 +60,4 @@ document.addEventListener("input", (event) => {
     }
 });
 
+});
