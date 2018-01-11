@@ -59,5 +59,11 @@ document.addEventListener("input", (event) => {
         taaaaaaan(current, isEnter);
     }
 });
-
+log("loaded: contents.js");
+log("configs.enterKeyTaaaaaaanMinSize:", configs.enterKeyTaaaaaaanMinSize);
+log("configs.enterKeyTaaaaaaanMaxSize:", configs.enterKeyTaaaaaaanMaxSize);
+log("configs.normalKeyKataKataMinSize:", configs.normalKeyKataKataMinSize);
+log("configs.normalKeyKataKataMaxSize:", configs.normalKeyKataKataMaxSize);
+log("configs.animateHorizontalMove:", configs.animateHorizontalMove);
+log("configs.animateVerticalMove:", configs.animateVerticalMove);
 });
