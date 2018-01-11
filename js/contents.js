@@ -1,5 +1,10 @@
 function taaaaaaan(current, isEnter) {
-    log('Show:', configs);
+    debug("configs.enterKeyTaaaaaaanMinSize:", configs.enterKeyTaaaaaaanMinSize);
+    debug("configs.enterKeyTaaaaaaanMaxSize:", configs.enterKeyTaaaaaaanMaxSize);
+    debug("configs.normalKeyKataKataMinSize:", configs.normalKeyKataKataMinSize);
+    debug("configs.normalKeyKataKataMaxSize:", configs.normalKeyKataKataMaxSize);
+    debug("configs.animateHorizontalMove:", configs.animateHorizontalMove);
+    debug("configs.animateVerticalMove:", configs.animateVerticalMove);
     var prefix = isEnter ? 'tan' : 'kata';
     var size = isEnter ? rand(configs.enterKeyTaaaaaaanMinSize,configs.enterKeyTaaaaaaanMaxSize) : rand(configs.normalKeyKataKataMinSize,configs.normalKeyKataKataMaxSize);
     var caretPosition = Measurement.caretPos(current);
