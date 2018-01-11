@@ -60,10 +60,10 @@ configs.$loaded.then(function() {
 	}
     });
     log("loaded: contents.js");
-    log("configs.enterKeyTaaaaaaanMinSize:", configs.enterKeyTaaaaaaanMinSize);
-    log("configs.enterKeyTaaaaaaanMaxSize:", configs.enterKeyTaaaaaaanMaxSize);
-    log("configs.normalKeyKataKataMinSize:", configs.normalKeyKataKataMinSize);
-    log("configs.normalKeyKataKataMaxSize:", configs.normalKeyKataKataMaxSize);
-    log("configs.animateHorizontalMove:", configs.animateHorizontalMove);
-    log("configs.animateVerticalMove:", configs.animateVerticalMove);
+    debug("configs.enterKeyTaaaaaaanMinSize:", configs.enterKeyTaaaaaaanMinSize);
+    debug("configs.enterKeyTaaaaaaanMaxSize:", configs.enterKeyTaaaaaaanMaxSize);
+    debug("configs.normalKeyKataKataMinSize:", configs.normalKeyKataKataMinSize);
+    debug("configs.normalKeyKataKataMaxSize:", configs.normalKeyKataKataMaxSize);
+    debug("configs.animateHorizontalMove:", configs.animateHorizontalMove);
+    debug("configs.animateVerticalMove:", configs.animateVerticalMove);
 });
