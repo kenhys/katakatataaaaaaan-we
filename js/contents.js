@@ -37,33 +37,26 @@ function rand(min,max) {
 }
 
 configs.$loaded.then(function() {
-document.onkeydown = function(e) {
-    var current = document.activeElement;
+    document.onkeydown = function(e) {
+	var current = document.activeElement;
 
-    if (e.key === 'Backspace') return true;
+	if (e.key === 'Backspace') return true;
 
-    if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
-        var isEnter = e.key === 'Enter';
-        taaaaaaan(current, isEnter);
+	if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
+            var isEnter = e.key === 'Enter';
+            taaaaaaan(current, isEnter);
+	}
     }
-}
 
-document.addEventListener("input", (event) => {
-    if (!event.isComposing) {
-	return;
-    }
-    var current = document.activeElement;
+    document.addEventListener("input", (event) => {
+	if (!event.isComposing) {
+	    return;
+	}
+	var current = document.activeElement;
 
-    if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
-        var isEnter = false;
-        taaaaaaan(current, isEnter);
-    }
-});
-log("loaded: contents.js");
-log("configs.enterKeyTaaaaaaanMinSize:", configs.enterKeyTaaaaaaanMinSize);
-log("configs.enterKeyTaaaaaaanMaxSize:", configs.enterKeyTaaaaaaanMaxSize);
-log("configs.normalKeyKataKataMinSize:", configs.normalKeyKataKataMinSize);
-log("configs.normalKeyKataKataMaxSize:", configs.normalKeyKataKataMaxSize);
-log("configs.animateHorizontalMove:", configs.animateHorizontalMove);
-log("configs.animateVerticalMove:", configs.animateVerticalMove);
+	if (current.type === 'textarea' || current.type === 'text' || current.type === 'search') {
+            var isEnter = false;
+            taaaaaaan(current, isEnter);
+	}
+    });
 });
