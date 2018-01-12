@@ -5,6 +5,8 @@
 
 katakatataaaaaaan-we is a folk of katakatataaaaaaan which is originally developed by [@ampersand_xyz](https://twitter.com/ampersand_xyz)
 
+See the following article - [ｶﾀｶﾀｶﾀｯﾀｰﾝを可視化した](https://qiita.com/ampersand/items/3ef94ebe9cba8c07a157) about what is the katakatataaaaaaan.
+
 ![Katakatataaaaaaan WE screencast](https://raw.githubusercontent.com/kenhys/katakatataaaaaaan-we/master/examples/katakatataaaaaaan-we.gif)
 
 There are two difference from original version of katakatataaaaaaan.
