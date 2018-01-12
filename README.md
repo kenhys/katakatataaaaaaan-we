@@ -4,6 +4,11 @@ katakatataaaaaaan-we is a folk of katakatataaaaaaan which is originally develope
 
 ![Katakatataaaaaaan WE screencast](https://raw.githubusercontent.com/kenhys/katakatataaaaaaan-we/master/examples/katakatataaaaaaan-we.gif)
 
+There are two difference from original version of katakatataaaaaaan.
+
+* Support `input` event for Firefox
+* Support to customize `katakatataaaaaaan` behavior via option page
+
 # How to customize it
 
 There are some customizable options. you can customize these options via option dialog page.
