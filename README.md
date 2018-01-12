@@ -14,7 +14,7 @@ There are two difference from original version of katakatataaaaaaan.
 
 # License
 
-Core module and images are licensed under MIT, and other stuff are licensed under MPL 2.0.
+The original code and images are licensed under MIT, and other stuff are licensed under MPL 2.0. see LICENSE about details.
 
 # How to customize it
 
