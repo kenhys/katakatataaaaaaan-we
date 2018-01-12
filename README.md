@@ -30,6 +30,10 @@ lockPref("extensions.katakatataaaaaaan-we.animateVerticalMove", 40);
 lockPref("extensions.katakatataaaaaaan-we.animateHorizontalMove", 40);
 ```
 
+# Limitations
+
+Katakatataaaaaaan WE doesn't support `contentediable` element and will not support it in the future.
+
 # Acknowledgements
 
 This derivative port doesn't exist without [@ampersand_xyz](https://twitter.com/ampersand_xyz)'s creative [katakatataaaaaaan](https://chrome.google.com/webstore/detail/katakatataaaaaaan/piapcmegjmiehfijbnafacnpmgkjnkhp?hl=ja) chrome extension.
