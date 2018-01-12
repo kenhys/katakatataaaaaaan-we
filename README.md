@@ -32,4 +32,4 @@ extensions.katakatataaaaaaan-we.animateHorizontalMove
 
 # Acknowledgements
 
-This derivative port doesn't exist without [@ampersand_xyz](https://twitter.com/ampersand_xyz)'s creative [katakatataaaaaaan](https://chrome.google.com/webstore/detail/katakatataaaaaaan/piapcmegjmiehfijbnafacnpmgkjnkhp?hl=ja)" chrome extension.
+This derivative port doesn't exist without [@ampersand_xyz](https://twitter.com/ampersand_xyz)'s creative [katakatataaaaaaan](https://chrome.google.com/webstore/detail/katakatataaaaaaan/piapcmegjmiehfijbnafacnpmgkjnkhp?hl=ja) chrome extension.
