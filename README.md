@@ -32,7 +32,7 @@ lockPref("extensions.katakatataaaaaaan-we.animateHorizontalMove", 40);
 
 # Limitations
 
-Katakatataaaaaaan WE doesn't support `contentediable` element and will not support it in the future.
+Katakatataaaaaaan WE doesn't support `contentediable` element and will not support at all.
 
 # Acknowledgements
 
