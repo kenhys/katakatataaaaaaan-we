@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+
 # Katakatataaaaaaan WE for Firefox
 
 katakatataaaaaaan-we is a folk of katakatataaaaaaan which is originally developed by [@ampersand_xyz](https://twitter.com/ampersand_xyz)
@@ -11,7 +14,7 @@ There are two difference from original version of katakatataaaaaaan.
 
 # License
 
-Core module and images are licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), and other stuff are licensed under [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0).
+Core module and images are licensed under MIT, and other stuff are licensed under MPL 2.0.
 
 # How to customize it
 
