@@ -9,6 +9,10 @@ There are two difference from original version of katakatataaaaaaan.
 * Support `input` event with composing mode for Firefox
 * Support to customize `katakatataaaaaaan` behavior via option page
 
+# License
+
+Core module and images are licensed under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT), and other stuff are licensed under [![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0).
+
 # How to customize it
 
 There are some customizable options. you can customize these options via option dialog page.
