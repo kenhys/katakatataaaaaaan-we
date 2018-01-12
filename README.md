@@ -6,7 +6,7 @@ katakatataaaaaaan-we is a folk of katakatataaaaaaan which is originally develope
 
 There are two difference from original version of katakatataaaaaaan.
 
-* Support `input` event for Firefox
+* Support `input` event with composing mode for Firefox
 * Support to customize `katakatataaaaaaan` behavior via option page
 
 # How to customize it
