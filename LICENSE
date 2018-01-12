@@ -1,0 +1,22 @@
+# MIT
+
+* js/jquery.js
+* js/caretposition.js
+* js/contents.js
+* js/jquery.js
+* images/icon.png
+* images/kata_1.svg
+* images/kata_2.svg
+* images/kata_3.svg
+* images/kata_4.svg
+* images/tan_1.svg
+* images/tan_2.svg
+* images/tan_3.svg
+* images/tan_4.svg
+
+# MPL 2.0
+
+js/background.js
+common/common.js
+options/init.js
+options/options.html
