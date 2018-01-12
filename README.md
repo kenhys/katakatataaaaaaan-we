@@ -30,6 +30,6 @@ extensions.katakatataaaaaaan-we.animateVerticalMove
 extensions.katakatataaaaaaan-we.animateHorizontalMove
 ```
 
-# Thanks
+# Acknowledgements
 
-This port doesn't exist without [@ampersand_xyz](https://twitter.com/ampersand_xyz)'s creative "katakatataaaaaaan" chrome extension.
+This derivative port doesn't exist without [@ampersand_xyz](https://twitter.com/ampersand_xyz)'s creative [katakatataaaaaaan](https://chrome.google.com/webstore/detail/katakatataaaaaaan/piapcmegjmiehfijbnafacnpmgkjnkhp?hl=ja)" chrome extension.
